@@ -1,4 +1,4 @@
-/*https://blog.naver.com/ngm3315/224004287179*/
+/*1일차 설명 : https://blog.naver.com/ngm3315/224004287179*/
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <string.h>
